@@ -86,5 +86,4 @@ public class DemoApplication {
 			return StreamUtils.copyToByteArray(inputStream);
 		}
 	}
-
 }
